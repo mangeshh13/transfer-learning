@@ -9,3 +9,5 @@ Train a image classifier for CIFAR-10 dataset in the following setting:
    
    2.b Using a pretrained resnet18 or mobilenet_v2 model as back-bone with last group or 3-4 layers un-frozen/available for training
 4. Provide commentary on what was observed between the models trained for step 2.a and 2.b
+
+Link to presentation file: [Click Here](https://docs.google.com/presentation/d/12HyxgFk56r4yu4aHXqL3zOkrXI5D63-aA2gpYCVXTvc/edit?usp=sharing)
